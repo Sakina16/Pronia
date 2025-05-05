@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pronio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9e03c580ce132a5390f03cd3da7d6890892670a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pronio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pronio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
